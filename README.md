@@ -6,11 +6,13 @@ The purpose of this repository is have the best resources to learn Kotlin. Feel 
 ## :hatched_chick: Kotlin
 
 ### Official documentation
+* [KotlinLang docs](https://kotlinlang.org/docs/)
 * [Kotlin Link](https://kotlin.link/)
 * [Try Kotlin!](https://try.kotlinlang.org/)
 
 ### Books
 * [Kotlin in Action](https://www.amazon.com/Kotlin-Action-Dmitry-Jemerov/dp/1617293296/ref=sr_1_1?ie=UTF8&qid=1501222185&sr=8-1&keywords=kotlin+in+action)
+* [Kotlin docs](https://kotlinlang.org/docs/kotlin-docs.pdf)
 
 ### Online Courses
 * [Kotlin for beginners](https://www.udemy.com/kotlin-course/learn/v4/overview)
@@ -27,7 +29,9 @@ The purpose of this repository is have the best resources to learn Kotlin. Feel 
 ### Conferences
 * [Kotlin Conf!](https://kotlinconf.com/)
 
+
 ## :phone: Kotlin and android
+
 
 ### Official documentation
 * [Getting started](https://developer.android.com/kotlin/index.html)
@@ -47,6 +51,9 @@ The purpose of this repository is have the best resources to learn Kotlin. Feel 
 
 
 
+## :v: Thanks for the recomendations!
+
+* [Sier](https://github.com/sierisimo)
 
 
 
