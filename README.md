@@ -1,7 +1,9 @@
 # :books: Kotlin resources 
 
 Want to learn Kotlin? Me too. 
-The purpose of this repository is have the best resources to learn Kotlin. Feel free to contribute!
+The purpose of this repository is have the best resources to learn Kotlin. Feel free to contribute! 
+
+Spanish version: [Recursos para aprender Kotlin](RESOURCES_ES.MD)
 
 ## :hatched_chick: Kotlin
 
@@ -17,7 +19,7 @@ The purpose of this repository is have the best resources to learn Kotlin. Feel 
 ### Online Courses
 * [Kotlin for beginners](https://www.udemy.com/kotlin-course/learn/v4/overview)
  
-### Post
+### Posts
 * [Kotlin for grumpy Java developers](https://medium.com/@Pinterest_Engineering/kotlin-for-grumpy-java-developers-8e90875cb6ab)
 
 ### Slides
@@ -40,21 +42,25 @@ The purpose of this repository is have the best resources to learn Kotlin. Feel 
 * [Kotlin for android Developers](https://www.amazon.com/Kotlin-Android-Developers-Learn-developing/dp/1530075610/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=1530075610&pd_rd_r=YSDSWSAP9E7W4EYXK1CS&pd_rd_w=fbwhE&pd_rd_wg=UCZ4M&psc=1&refRID=YSDSWSAP9E7W4EYXK1CS)
 
 ### Online Courses
+
+### Blogs
+
+* [Antonio Leiva blog](https://antonioleiva.com/kotlin/)
  
-### Post
+### Posts
 * [An Introduction to Kotlin on Android](https://www.bignerdranch.com/blog/an-introduction-to-kotlin-on-android/)
 
 ### Slides
 * [It's a Kotlin, Kotlin, Kotlin World (Jake Wharton - London Android Meetup July 2017)](https://speakerdeck.com/jakewharton/its-a-kotlin-kotlin-kotlin-world-london-android-meetup-july-2017)
 
 ### Github Repositories
-
+* [Android Architecture Components & Kotlin](https://github.com/erikcaffrey/Android-Architecture-Components-Kotlin)
 
 
 ## :v: Thanks for the recomendations!
 
 * [Sier](https://github.com/sierisimo)
-
+* [DevPicon](https://github.com/DevPicon)
 
 
 
