@@ -18,10 +18,6 @@ Chinese: [Kotlin 官方参考文档 中文版](https://github.com/china-kook/Ski
 * [Kotlin in Action](https://www.amazon.com/Kotlin-Action-Dmitry-Jemerov/dp/1617293296/ref=sr_1_1?ie=UTF8&qid=1501222185&sr=8-1&keywords=kotlin+in+action)
 * [Kotlin docs](https://kotlinlang.org/docs/kotlin-docs.pdf)
 
-## Talks
-* [Realm Academy](https://academy.realm.io/search/kotlin/)
-* [Google I/0 2017](https://www.youtube.com/results?search_query=google+io+2017+kotlin)
-
 ### Online Courses
 * [Kotlin for beginners](https://www.udemy.com/kotlin-course/learn/v4/overview)
 
@@ -35,11 +31,14 @@ Chinese: [Kotlin 官方参考文档 中文版](https://github.com/china-kook/Ski
 
 ### Posts
 * [Reading Through Kotlin in Action](https://medium.com/@calren24/reading-through-kotlin-in-action-428111b051ce)
+* [Syntactically correct sentences in Kotlin](https://notes.devlabs.bg/syntactically-correct-sentences-in-kotlin-16d98717dc38)
 * [Kotlin for grumpy Java developers](https://medium.com/@Pinterest_Engineering/kotlin-for-grumpy-java-developers-8e90875cb6ab)
 * [Idiomatic Kotlin. Best Practices.](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)
 * [Kotlin: the Upstart Coding Language Conquering Silicon Valley](https://www.wired.com/story/kotlin-the-upstart-coding-language-conquering-silicon-valley?mbid=social_twitter)
+* [Exploring the .class side of Kotlin](https://proandroiddev.com/exploring-the-class-side-of-kotlin-d4af0d1065e2)
 
-### Slides
+### Newsletter
+* [Weekly Kotlin dose](http://www.kotlinweekly.net/)
 
 ### Github Repositories
 * [JetBrains Kotlin Workshop Material](https://github.com/JetBrains/kotlin-workshop)
@@ -72,6 +71,12 @@ Chinese: [Kotlin 官方参考文档 中文版](https://github.com/china-kook/Ski
 * [Building Beautiful Apps Faster with Material Components on Android (Kotlin)
 ](https://codelabs.developers.google.com/codelabs/mdc-android-kotlin/index.html?index=..%2F..%2Findex#0)
 * [Notification Channels and Badges](https://codelabs.developers.google.com/codelabs/notification-channels-kotlin/index.html?index=..%2F..%2Findex#0)
+
+### Talks
+* [Google I/0 2017](https://www.youtube.com/results?search_query=google+io+2017+kotlin)
+* [The Road to Kotlintown](https://academy.realm.io/posts/360-andev-2017-huyen-tue-dao-christina-lee-kotlintown/)
+* [Learning Path: Kotlin in Depth](https://academy.realm.io/posts/learning-path-kotlin-in-depth/)
+
 
 ### Slides
 * [It's a Kotlin, Kotlin, Kotlin World (Jake Wharton - London Android Meetup July 2017)](https://speakerdeck.com/jakewharton/its-a-kotlin-kotlin-kotlin-world-london-android-meetup-july-2017)
