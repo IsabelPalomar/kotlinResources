@@ -23,6 +23,7 @@ Chinese: [Kotlin 官方参考文档 中文版](https://github.com/china-kook/Ski
 
 ### Tutorials
 * [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)
+* [Kotlin From Scratch: Variables, Basic Types, and Arrays](https://code.tutsplus.com/tutorials/kotlin-from-scratch-variables-basic-types-arrays-type-inference-and-comments--cms-29328)
 
 ### To practice
 * [Kotlin Koans App](https://play.google.com/store/apps/details?id=me.vickychijwani.kotlinkoans)
@@ -51,11 +52,13 @@ Chinese: [Kotlin 官方参考文档 中文版](https://github.com/china-kook/Ski
 
 ### Official documentation
 * [Getting started](https://developer.android.com/kotlin/index.html)
+* [Android - Recommended resources](https://developer.android.com/kotlin/resources.html)
 
 ### Books
 * [Kotlin for android Developers](https://www.amazon.com/Kotlin-Android-Developers-Learn-developing/dp/1530075610/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=1530075610&pd_rd_r=YSDSWSAP9E7W4EYXK1CS&pd_rd_w=fbwhE&pd_rd_wg=UCZ4M&psc=1&refRID=YSDSWSAP9E7W4EYXK1CS)
 
 ### Online Courses
+* [Kotlin for Android Developers](https://academy.antonioleiva.com/p/kotlin-android-developers)
 
 ### Blogs
 
