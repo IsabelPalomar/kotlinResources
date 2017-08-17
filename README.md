@@ -43,6 +43,8 @@ Chinese: [Kotlin 官方参考文档 中文版](https://github.com/china-kook/Ski
 
 ### Github Repositories
 * [JetBrains Kotlin Workshop Material](https://github.com/JetBrains/kotlin-workshop)
+* [Kotlin](https://github.com/Kotlin)
+* [Kotlin Coroutines](https://github.com/Kotlin/kotlin-coroutines)
 
 ### Conferences
 * [Kotlin Conf!](https://kotlinconf.com/)
