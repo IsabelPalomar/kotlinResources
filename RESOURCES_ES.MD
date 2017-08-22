@@ -12,6 +12,7 @@ El propósito de este repositorio es tener los mejores recursos para aprender Ko
 ### Blogs
 
 * [Dev experto blog](https://devexperto.com/blog/)
+* [Aldominium.com](http://aldominium.com/)
 
 ### Blog posts
 
