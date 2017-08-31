@@ -20,6 +20,7 @@ Chinese: [Kotlin 官方参考文档 中文版](https://github.com/china-kook/Ski
 
 ### Online Courses
 * [Kotlin for beginners](https://www.udemy.com/kotlin-course/learn/v4/overview)
+* [The Total Kotlin Course (free course on Udemy)](https://www.udemy.com/the-total-kotlin-course-learn-kotlin-today)
 
 ### Tutorials
 * [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)
