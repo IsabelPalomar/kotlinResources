@@ -93,8 +93,11 @@ Chinese: [Kotlin 官方参考文档 中文版](https://github.com/china-kook/Ski
 
 ## :v: Thanks for the recomendations!
 
-* [Sier](https://github.com/sierisimo)
-* [DevPicon](https://github.com/DevPicon)
+* [@Sier](https://github.com/sierisimo)
+* [@DevPicon](https://github.com/DevPicon)
 
+## :bowtie: Contributors
 
+* [@lalongooo](https://github.com/lalongooo)
+* [@aldominium](https://github.com/aldominium)
 
