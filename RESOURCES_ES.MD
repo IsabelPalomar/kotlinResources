@@ -8,6 +8,7 @@ El propósito de este repositorio es tener los mejores recursos para aprender Ko
 ### Cursos en línea
 * [Kotlin desde cero](https://www.youtube.com/playlist?list=PLh_neeN4BQCkH8lDUQ53tkFbRmLAV4g8P)
 * [Curso de Kotlin Fundamentos Gratis](https://devcode.la/cursos/kotlin/)
+* [Curso Android con Kotlin desde Cero](https://www.youtube.com/playlist?list=PLfK_bHIGfQBncSKfRCemdClJ-c9bPwB5N)
  
 ### Blogs
 
