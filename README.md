@@ -30,6 +30,7 @@ Chinese: [Kotlin 官方参考文档 中文版](https://github.com/china-kook/Ski
 * [Kotlin Koans App](https://play.google.com/store/apps/details?id=me.vickychijwani.kotlinkoans)
 
 ### Blogs
+* [Kotlin Development](https://www.kotlindevelopment.com)
 
 ### Posts
 * [Reading Through Kotlin in Action](https://medium.com/@calren24/reading-through-kotlin-in-action-428111b051ce)
